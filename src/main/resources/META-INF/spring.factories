@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.moensun.spring.exception.MSExceptionConfiguration
+org.springframework.context.ApplicationContextInitializer=\
+com.moensun.spring.context.SpringContextSetter

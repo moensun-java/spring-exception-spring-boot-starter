@@ -6,7 +6,7 @@ import org.springframework.boot.context.properties.EnableConfigurationProperties
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-import java.com.moensun.spring.resource.MSResourceBundle;
+import com.moensun.spring.resource.MSResourceBundle;
 
 /**
  * Created by Bane.Shi.
