@@ -29,7 +29,7 @@
         <dependency>
             <groupId>com.moensun.spring</groupId>
             <artifactId>spring-exception</artifactId>
-            <version>1.0-RELEASE</version>
+            <version>1.0.1-RELEASE</version>
         </dependency>
     </dependencies>
     <!--<name>${project.groupId}:${project.artifactId}</name>-->
@@ -120,6 +120,8 @@
                         <version>2.10.4</version>
                         <configuration>
                             <encoding>UTF-8</encoding>
+                            <source>1.8</source>
+                            <target>1.8</target>
                         </configuration>
                         <executions>
                             <execution>
